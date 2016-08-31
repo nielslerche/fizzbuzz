@@ -1,4 +1,4 @@
-"Implementation of \"FizzBuzz\" in Python which generates a harcoded FizzBuzz implementation in Python."
+Implementation of "FizzBuzz" in Python which generates a harcoded FizzBuzz implementation in Python.
 
 ```
 for x in range(1, 101):
